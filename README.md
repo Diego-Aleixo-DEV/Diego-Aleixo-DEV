@@ -1,16 +1,16 @@
-### Hi there 👋
+### Oi eu sou o Diego!
 
-<!--
-**Diego-Aleixo-DEV/Diego-Aleixo-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou aspirante a desenvolvedor backend!
 
-Here are some ideas to get you started:
+Linguagens conhecidas:
+- C# --------- :star::star::star::star:
+- Java ------- :star::star:
+- Javascript - :star::star::star:
+- HTML ------- :star::star::star:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias que estou estudando:
+- .Net Framework
+- .Net Core
+- ASP.Net
+- Javascript
+- Node.js
